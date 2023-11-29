@@ -1,0 +1,9 @@
+1.請將全部檔案放在網址對應的根目錄，若要放在其他層目錄請至[ 網站檔案 ]內的tadmin/others/config/config.php檔案，修改 f_path 路徑。
+
+2.轉信表單，請至[ 網站檔案 ]內的tadmin/others/config/config.php檔案，修改 Sender、main_mail、HostMail、HostMailPort、HostMailUser、HostMailPassword 資訊。
+
+3.首次設定資料庫，請至[ 網站檔案 ]內的tadmin/others/database/database.php檔案，修改資料庫名稱、密碼等。
+
+4.匯入sql檔，請使用utf-8編碼，若使用其他編碼，請自行轉檔。
+
+5.以上設定完畢以後，網站就能正式啟用，如有問題請聯繫服務人員。
